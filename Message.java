@@ -1,6 +1,6 @@
 class Message{
-public static void main(Strinng args[]){
+public static void main(String args[]){
    String message="Vaishnavi";
-   Systemm.out.println("Hello"+message);
+   System.out.println("Hello"+message);
    }
 }
